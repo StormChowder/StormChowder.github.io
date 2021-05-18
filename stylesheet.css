@@ -1,0 +1,15 @@
+* {
+    font: Courier;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+}
+
+p {
+    font-variant-ligatures: contextual;
+}
+
