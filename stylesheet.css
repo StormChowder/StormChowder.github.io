@@ -1,0 +1,35 @@
+* {
+    font: Courier;
+    background-color: grey;
+    scrollbar-color: black;
+}
+
+h1 {
+    color: red;
+    border: 1px, maroon;
+    border-style: groove;
+    text-align: center;
+}
+
+h2 {
+    color:red
+}
+
+p {
+    font-variant-ligatures: contextual;
+}
+
+button {
+    color: black;
+    font: white;
+}
+
+button:hover {
+    color: red;
+    font: black;
+    border: groove black;
+}
+
+img {
+    border: 5px groove black;
+}
