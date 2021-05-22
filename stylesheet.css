@@ -34,6 +34,8 @@ button:hover {
 
 img {
     border: 5px groove black;
+    align-items: center;
+    size: 300px;
 }
 
 table {
