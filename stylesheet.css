@@ -1,7 +1,8 @@
 * {
-    font: Courier;
+    font-family: Palatino;
     background-color: grey;
     font-size: medium;
+    background-image: url('images/Background2.jpeg')
 }
 
 h1 {
@@ -9,6 +10,7 @@ h1 {
     border: 1px, maroon;
     border-style: groove;
     text-align: center;
+    background-color: brown
 }
 
 h2 {
