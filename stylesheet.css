@@ -1,18 +1,18 @@
 * {
     font: Courier;
     background-color: grey;
-    scrollbar-color: black;
+    font-size: medium;
 }
 
 h1 {
-    color: red;
+    color: maroon;
     border: 1px, maroon;
     border-style: groove;
     text-align: center;
 }
 
 h2 {
-    color:red
+    color:maroon;
 }
 
 p {
@@ -32,4 +32,8 @@ button:hover {
 
 img {
     border: 5px groove black;
+}
+
+table {
+    align-items: center;
 }
