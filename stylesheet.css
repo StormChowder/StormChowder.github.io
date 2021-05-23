@@ -1,21 +1,32 @@
 * {
     font-family: Palatino;
-    font-size: medium;
-    background-image: url('images/Background2.jpeg')
+    font-size: 20px;
+    background-color: beige;
 }
 
 .header {
     padding: 60px;
     text-align: center;
-    font-size: 30px
+    font-size: 75px;
+    background-image: url('images/vectorSeamlessTree.jpg')
 }
 
 #skills {
-    background-image: url('images/Skills.jpeg')
+    background-image: url('images/vectorSeamlessTree.jpg');
+    font-size: 60px;
+    color: maroon;
+
 }
 
 #history {
-    background-image: url('images/History.jpg')
+    background-image: url('images/vectorSeamlessTree.jpg');
+    font-size: 60px;
+    color: maroon;
+}
+
+#languages {
+    background-image: url('images/vectorSeamlessTree.jpg');
+    font-size: 60px;
 }
 
 h1 {
@@ -23,7 +34,9 @@ h1 {
     border: 1px, maroon;
     border-style: groove;
     text-align: center;
-    background-color: brown
+    background-color: white;
+    font-size: xx-large;
+    font-weight: bolder;
 }
 
 h2 {
@@ -48,7 +61,7 @@ button:hover {
 img {
     border: 5px groove black;
     align-items: center;
-    size: 300px;
+    size: 150px;
 }
 
 table {
