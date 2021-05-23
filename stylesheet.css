@@ -4,6 +4,20 @@
     background-image: url('images/Background2.jpeg')
 }
 
+.header {
+    padding: 60px;
+    text-align: center;
+    font-size: 30px
+}
+
+#skills {
+    background-image: url('images/Skills.jpeg')
+}
+
+#history {
+    background-image: url('images/History.jpg')
+}
+
 h1 {
     color: maroon;
     border: 1px, maroon;
